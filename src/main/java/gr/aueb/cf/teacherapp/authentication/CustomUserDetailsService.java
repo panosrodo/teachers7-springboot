@@ -14,8 +14,8 @@ public class CustomUserDetailsService implements UserDetailsService {
     private final UserRepository userRepository;
 
 //    @Autowired
-//    public CustomUserDetailsService(UserRepository userRepositoryl) {
-//        this.userRepository = userRepositoryl;
+//    public CustomUserDetailsService(UserRepository userRepository) {
+//        this.userRepository = userRepository;
 //    }
 
     @Override
